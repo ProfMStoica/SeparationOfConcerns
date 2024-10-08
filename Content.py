@@ -15,7 +15,11 @@ GAME_SETTING = "Nestled between the towering peaks of the Eldrath Mountains and 
  of an ancient artifact, the Heartstone, said to possess the power to restore balance and harmony.\
  But it has been lost to time, hidden away in a labyrinthine dungeon guarded by formidable foes."
 
-CHARACTER_INTRO = ""
+CHARACTER_INTRO = "Aelinor, a skilled archer with an unyielding spirit, seeks to avenge her fallen kin and reclaim\
+ her homeland from the clutches of darkness. Her keen eyes can spot danger from afar, but her heart\
+ carries the weight of loss.\n\nThorin, a brooding warrior with a mysterious past, wields his sword\
+ with unmatched skill. Haunted by his own demons, he yearns for redemption and the chance to forge\
+ a new legacy."
 
 JOURNEY_DESC = "Together, Aelinor and Thorin must navigate treacherous landscapes, solve intricate puzzles,\
  and confront their deepest fears. Along the way, they will encounter allies who offer guidance and\
